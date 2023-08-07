@@ -3,8 +3,7 @@
 ---
 
 
-> java
-<!-- > Java、Java 虚拟机（JVM）、垃圾回收、JSP、servlet、filter、listener、JDBC、JPA
+> Java、Java 虚拟机（JVM）、垃圾回收、JSP、servlet、filter、listener、JDBC、JPA
 
 > Java 框架：Spring、Spring IOC、Spring DI、Spring Cloud、gateway、熔断器 Hystrix、负载均衡器 Ribbon、注册中心 nocos
 
@@ -56,4 +55,4 @@
 
 > FTP 工具：XFTP、zftp
 
-> dbeaver -->
+> dbeaver
